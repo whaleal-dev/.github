@@ -25,16 +25,6 @@ Whaleal Commerce 为 Shopify 商家提供一套开源、可自托管的电商工
 | 身份认证（IdP） | https://idp.whaleal.com | 统一身份认证与单点登录 |
 | 账户管理端 | https://account.whaleal.com | 用户与权限管理后台 |
 
-## 开源项目
-
-| 项目 | 说明 | 语言 | 许可证 |
-|------|------|------|--------|
-| [quick-sms](https://github.com/whaleal-dev/quick-sms) | 多供应商短信聚合 SDK，统一发信/回执/上行/状态查询，支持 SaaS 多租户 | Java | Apache-2.0 |
-| [cart-service](https://github.com/whaleal-dev/cart-service) | 购物车恢复服务，识别放弃购物车并触发召回流程 | Java | — |
-| [aihub](https://github.com/whaleal-dev/aihub) | 面向 JDK 8+ 的 Java 大模型客户端，统一各厂商 HTTP/SSE API | Java | Apache-2.0 |
-| [rds-sync](https://github.com/whaleal-dev/rds-sync) | 关系型数据库同步 SDK，支持 MySQL/Oracle/PostgreSQL 全量与增量同步 | Java | — |
-| [mongo-sync](https://github.com/whaleal-dev/mongo-sync) | MongoDB 文档同步 SDK，全量 + 增量、DDL 跟随与数据校验 | Java | — |
-| [mongodb-log](https://github.com/whaleal-dev/mongodb-log) | MongoDB 日志相关工具 | Java | Apache-2.0 |
 
 ## 面向 Shopify 商家的场景
 
@@ -52,7 +42,6 @@ Whaleal Commerce 为 Shopify 商家提供一套开源、可自托管的电商工
 各子项目文档会自动聚合到 `docs.whaleal.com`，路径使用 projectname：
 
 - https://docs.whaleal.com/quick-sms/
-- https://docs.whaleal.com/cart-service/
 - https://docs.whaleal.com/aihub/
 
 ## 参与贡献
