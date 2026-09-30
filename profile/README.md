@@ -20,7 +20,7 @@ Whaleal Commerce 为 Shopify 商家提供一套开源、可自托管的电商工
 |------|------|------|
 | 官网 | https://whaleal.com | 品牌与产品入口 |
 | 文档中心 | https://docs.whaleal.com | 技术文档中心，子项目文档自动添加 projectname 路径 |
-| SMS 服务 | https://sms.whaleal.com | 多通道短信发送、回执、上行，对应 `quick-sms` |
+| SMS 服务 | https://sms.whaleal.com | 多通道短信发送、回执、上行 |
 | Cart 服务 | https://cart.whaleal.com | 购物车恢复与事件处理 |
 | 身份认证（IdP） | https://idp.whaleal.com | 统一身份认证与单点登录 |
 | 账户管理端 | https://account.whaleal.com | 用户与权限管理后台 |
