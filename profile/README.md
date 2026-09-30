@@ -49,6 +49,4 @@ Whaleal Commerce 为 Shopify 商家提供一套开源、可自托管的电商工
 欢迎提交 Issue 和 PR。各仓库的贡献指南见仓库内 `CONTRIBUTING.md`。
 
 ## 联系
-
-- GitHub Discussions：在各仓库内发起讨论
-- 商务合作：请通过官网 https://whaleal.com 联系
+QQ  微信  邮箱等  
