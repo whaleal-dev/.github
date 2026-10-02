@@ -24,6 +24,7 @@ Whaleal Commerce 为 Shopify 商家提供一套开源、可自托管的电商工
 | Cart 服务 | https://cart.whaleal.com | 购物车恢复与事件处理 |
 | 身份认证（IdP） | https://idp.whaleal.com | 统一身份认证与单点登录 |
 | 账户管理端 | https://account.whaleal.com | 用户与权限管理后台 |
+| 工单系统 | https://support.whaleal.com | 工单及知识库系统（开发中，预计28年初上线） |
 
 
 ## 面向 Shopify 商家的场景
