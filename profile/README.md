@@ -9,12 +9,12 @@
 
 - **Whaleal Cart** — AI 弃购挽回：AI 挽回邮件 + 原生 Shopify 折扣码，安装后无需日常打理。  
   https://cart.whaleal.com · [Shopify App Store](https://apps.shopify.com/whaleal-cart)
-- **Whaleal SMS** — 多通道短信：同一套 API 对接 Twilio、阿里云、腾讯云等通道，按成本或到达率自动切换，适合跨境与多地区店铺。  
-  https://sms.whaleal.com
+- **Whaleal Messaging** — 多通道短信：同一套 API 对接 Twilio、阿里云、腾讯云等通道，按成本或到达率自动切换，适合跨境与多地区店铺。  
+  https://app.whaleal.com
 - **Whaleal Support** — 工单与知识库（Beta）。  
   https://support.whaleal.com
 
-> 我们正在把 Whaleal SMS 接入 Whaleal Cart 的挽回流程，之后同一套挽回序列可以同时走邮件与短信。
+> 我们正在把 Whaleal Messaging 接入 Whaleal Cart 的挽回流程，之后同一套挽回序列可以同时走邮件与短信。
 
 ## 开源项目（Java SDK）
 
@@ -33,7 +33,7 @@
 | 官网 | https://whaleal.com | 品牌与产品入口 |
 | 文档中心 | https://docs.whaleal.com | 技术文档中心，子项目文档自动按 projectname 路径聚合 |
 | Whaleal Cart | https://cart.whaleal.com | 弃购挽回与结账事件 |
-| Whaleal SMS | https://sms.whaleal.com | 多通道短信发送、回执、上行 |
+| Whaleal Messaging | https://app.whaleal.com | 多通道短信发送、回执、上行 |
 | Whaleal Support | https://support.whaleal.com | 工单与知识库（Beta） |
 | 账户管理端 | https://account.whaleal.com | 用户与权限管理后台 |
 
