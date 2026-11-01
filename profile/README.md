@@ -13,7 +13,7 @@
   https://cart.whaleal.com · [Shopify App Store](https://apps.shopify.com/whaleal-cart)
 
 - **Whaleal Messaging** — 自持账号（BYOL）的消息编排层：在控制台把**你自己的** SMS / 邮件 / WhatsApp 账号接进来，拿到一个发送日志、一套回执口径、一份按通道隔离的抑制名单。**我们不是 BSP、不持有通道资质、不转卖消息额度、不在供应商账单上加价 —— 消息费你直接付给供应商，平台只收订阅费。**
-  https://app.whaleal.com
+  https://console.whaleal.com
 
   Cart 与 Messaging 是两条产品线：Cart 负责把弃购找回来，Messaging 负责让消息可靠地发出去。Cart 的短信通过 Whaleal Messaging 走商家自己的短信账号 —— 所以那部分额度、费率与合规仍然在商家与自己的供应商之间。
 
@@ -55,7 +55,7 @@
 | 官网 | https://www.whaleal.com | 品牌与产品入口 |
 | 文档中心 | https://docs.whaleal.com | 技术文档中心，子项目文档自动按 projectname 路径聚合 |
 | Whaleal Cart | https://cart.whaleal.com | 弃购挽回与结账事件 |
-| Whaleal Messaging | https://app.whaleal.com | 三通道连接、发送、回执与消息日志 |
+| Whaleal Messaging | https://console.whaleal.com | 三通道连接、发送、回执与消息日志 |
 | Whaleal Support | https://support.whaleal.com | 工单与知识库（Beta） |
 | 账户管理端 | https://account.whaleal.com | 用户与权限管理后台 |
 
